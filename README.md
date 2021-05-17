@@ -12,3 +12,5 @@ Para isso, crie um repositório no seu GitHub e envie suas alterações para ele
 Após concluir o desafio, além de ter mandado o código para o GitHub, fazer um post no LinkedIn é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
 
 Feito com 💜 por Rocketseat 👋 Participe da nossa [comunidade aberta!](https://discord.gg/pUU3CG4Z)
+
+![image](https://user-images.githubusercontent.com/53273641/118537266-2193ba00-b723-11eb-9a15-16a508cfe4af.png)
